@@ -550,7 +550,7 @@ merge nodes w/o dup: `4998`
 - [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `49`
 - [colatiger/v2ray-nodes](https://github.com/colatiger/v2ray-nodes), number of nodes: `121`
 - [ssrsub/ssr](https://github.com/ssrsub/ssr), number of nodes: `261`
-- [Use4Free/V2RayAggregator](https://github.com/Use4Free/V2RayAggregator), number of nodes: `200`
+- [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator), number of nodes: `200`
 - [iwxf/free-v2ray](https://github.com/iwxf/free-v2ray), number of nodes: `39`
 - [DoveBoy/Vmess-Actions](https://github.com/ldir92664/Vmess-Actions), number of nodes: `105`
 - [gooooooooooooogle/Clash-Config](https://github.com/gooooooooooooogle/Clash-Config), number of nodes: `1`
